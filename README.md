@@ -49,8 +49,8 @@ This project involves developing a sentiment analysis tool that analyzes social 
 To get started, clone the repository and install the required dependencies.
 
 ```bash
-git clone https://github.com/raja-2004/Social-Media-Sentiment-Analysis.git
-cd Social-Media-Sentiment-Analysis
+git clone https://github.com/raja-2004/SENTIMENT-SCOPE.git
+cd SENTIMENT-SCOPE
 pip install numpy
 pip install pandas
 pip install scikit-learn
